@@ -1,0 +1,11 @@
+* Criando a página de login e senha
+* Ajax já está fazendo a verificação de usuário e senha e retornando para o index true or false
+
+
+
+
+
+
+d
+
+ **** Tentar separar o JavaScript da tela index para um arquivo separado
